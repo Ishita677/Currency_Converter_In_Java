@@ -38,3 +38,6 @@ Common Event Listener Interfaces
 2. MouseListener: Handles mouse events like clicks, enters, exits, presses, and releases.
 3. KeyListener: Handles keyboard events like key presses, key releases, and key typing.
 4. WindowListener: Handles window events like opening, closing, minimizing, and maximizing.
+
+
+
