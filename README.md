@@ -18,19 +18,15 @@ How I Built This Project :-
 
 1. Java Swing: I used Java Swing to create the graphical user interface (GUI) for this application. Swing provides components like buttons, 
 text fields, and combo boxes, allowing users to interact with the program.
-
 2. Conversion Logic: I implemented the conversion logic based on predefined exchange rates. Each currency pair has a specific conversion 
 factor, which I applied to the user's input.
-
 3. Error Handling: To ensure a smooth user experience, I added error handling for invalid input (e.g., non-numeric characters).
-
 4. User Experience: The application provides a clear interface for users to input data, view the converted amount, 
 and reset or exit the program.
 
 Limitations :-
 
 1. Supported Currencies: While the converter currently supports a select list of currencies, there's potential to expand its capabilities. If you need more currency pairs, additional tools or APIs can be integrated.
-
 2. Exchange Rates: Keep in mind that the exchange rates used are static and may not reflect the latest market conditions. For critical conversions, double-check the rates to ensure they meet your needs.
 
 Feel free to check out the code, add your own touches, or ask any questions you have. Thanks for using this Currency Converter—happy converting!
